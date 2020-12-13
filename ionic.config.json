@@ -1,5 +1,7 @@
 {
   "name": "sleep-cycle-alarm",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
